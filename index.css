@@ -1,0 +1,11 @@
+.image-size {
+    height: 200px;
+}
+
+.skill-butn {
+    width: 200px;  
+    height: 40px; 
+    background-color: rgb(92, 196, 238);
+    font-weight: bold;
+    
+}
